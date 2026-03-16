@@ -9,3 +9,15 @@
 main {
     padding: 60px 0;
 }
+
+.flex {
+    display: flex;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+nav ul {
+    list-style: none;
+}
