@@ -9,3 +9,10 @@
 main {
     padding: 60px 0;
 }
+
+nav ul li {
+    text-align: center;
+    color: rgb(5, 79, 54);
+    background-color: bisque;   
+}
+
