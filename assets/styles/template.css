@@ -27,3 +27,25 @@ footer {
 }
 
 .foot i:hover { color: #d4a373; }
+.flex {
+    display: flex;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+header {
+    padding-top: 40px;
+    height: 80px;
+    background-color: grey;
+    line-height: 30px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav .flex {
+    gap: 20px;
+}
